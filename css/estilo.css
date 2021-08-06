@@ -1,0 +1,35 @@
+body{
+
+	background-color: darkgrey;
+	margin-left: 35px;
+	margin-right: 35px;
+	 color: black;
+}
+
+h1{
+
+    text-align: center;
+
+
+
+}
+
+p{
+	text-align: justify;
+	font-size: 20px;
+}
+Img{
+
+
+	width: 100%;
+}
+figure{
+
+	 text-align: center;
+
+}
+
+
+
+
+
