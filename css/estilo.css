@@ -47,6 +47,20 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
  
+ol{
+	text-align: left;
+	font-size:20px ;
+}
+
+h2{
+
+	font-size: 20px;
+	text-align: left;
+}
+
+p{
+	text-align: left;
+}
 
 
 
